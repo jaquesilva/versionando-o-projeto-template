@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
 Projeto criado com as bibliotecas React JS e Material UI.
@@ -14,6 +13,3 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
-=======
-# versionando-o-projeto-template
->>>>>>> 41a70da150548085311e5d5d3cb6e3bf49e48e96
